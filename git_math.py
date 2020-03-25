@@ -16,4 +16,6 @@ def Division(x,y):
 def PowerLaw(x,y):
 	pass 
 	
-## New comment
+
+def NewFunc(x,y):
+	pass
