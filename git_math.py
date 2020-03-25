@@ -8,7 +8,7 @@ def Subtraction(x,y):
 	return x-y 
 	
 def Mulitplication(x,y):
-	pass
+	return x*y
     
 def Division(x,y):
 	pass 
