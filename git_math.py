@@ -19,3 +19,7 @@ def PowerLaw(x,y):
 
 def NewFunc(x,y):
 	pass
+
+
+def NewFuncRemoteAdded(x,y):
+	pass
