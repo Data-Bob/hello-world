@@ -17,7 +17,7 @@ def PowerLaw(x,y):
 	pass 
 	
 
-def NewFunc(x,y):
+def SuperFunc(x,y):
 	pass
 
 
